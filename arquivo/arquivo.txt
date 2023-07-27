@@ -1,0 +1,14 @@
+==============================================================
+                          Dependencias
+==============================================================
+
+
+ReactNavigation => npm install @react-navigation/native
+
+ReactNavigation => npx expo install react-native-screens react-native-safe-area-context
+
+ReactNavigation => npm install @react-navigation/native-stack
+
+animatable =>  npm install react-native-animatable --save
+
+BancoFirebase => npx expo install firebase
